@@ -44,4 +44,16 @@ This enables:
 ---
 
 ## System Architecture
+![image](image.png)
+
+## Contributors
+
+Deeptha Bandi
+
+Meghana Gandham
+
+Durga Nagasri Ravoori
+
+Tejaswi Bellapu
+
 
